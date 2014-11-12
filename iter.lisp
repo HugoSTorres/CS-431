@@ -1,5 +1,0 @@
-(defun iter (l)
-	(print (car l))
-	(if (cdr l)
-		(iter (cdr l)))
-)
